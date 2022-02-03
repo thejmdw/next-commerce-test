@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './WishlistButton';","map":{"version":3,"sources":["/Users/thejmdw/workspace/websites/next-commerce-test/components/wishlist/WishlistButton/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,kBAAxB","sourcesContent":["export { default } from './WishlistButton'\n"]},"metadata":{},"sourceType":"module"}
